@@ -1,2 +1,2 @@
 # My_Blog
-This is project where I've used python and Django to create a website which consists of blogs
+This is a project where I used Python and Django to build a blog-based website.
